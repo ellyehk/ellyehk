@@ -1,11 +1,11 @@
-# ¡Hola! Soy Leslye 👋
+# Hi! I'm Leslye 👋
 
 <p align="center">
   <img src="https://github.com/ellyehk.png" width="130" style="border-radius: 50%; border: 3px solid #7928CA;" />
 </p>
 
-### 👤 Sobre Mí
-Soy estudiante de **Ingeniería en Tecnologías de la Información y Comunicaciones**, enfocada en **Backend Development**. Actualmente trabajo en un simulador en **C** y un sistema de gestión en **Java** con **PostgreSQL**.
+### 👤 About Me
+I am an **IT and Communications Engineering** student, focused on **Backend Development**. I am currently working on a simulator in **C** and a management system in **Java** with **PostgreSQL**.
 
 ---
 
@@ -13,9 +13,10 @@ Soy estudiante de **Ingeniería en Tecnologías de la Información y Comunicacio
 <p align="center">
   <img src="https://raw.githubusercontent.com/ellyehk/ellyehk/output/github-contribution-grid-snake-dark.svg" alt="Pac-Man Game">
 </p>
+
 ---
 
-### 📊 Estadísticas de GitHub
+### 📊 GitHub Stats
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ellyehk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=7928CA&title_color=00f2fe" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellyehk&layout=donut&theme=tokyonight&border_color=7928CA&title_color=00f2fe" />
@@ -46,7 +47,7 @@ Soy estudiante de **Ingeniería en Tecnologías de la Información y Comunicacio
   <img src="https://img.shields.io/badge/TIA_PORTAL-%230D1117.svg?style=for-the-badge&logo=siemens&logoColor=%23009999&color=0D1117" />
 </p>
 
-### 📂 Proyectos Destacados
+### 📂 Featured Projects
 
 <p align="center">
   <a href="https://github.com/ellyehk/The-Boy-and-The-Hero">
@@ -69,12 +70,12 @@ Soy estudiante de **Ingeniería en Tecnologías de la Información y Comunicacio
 
 ### 📊 Coding Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ellyehk&bg_color=0D1117&color=00f2fe&line=7928CA&point=00f2fe&area=true&hide_border=true&area_color=7928CA&custom_title=Actividad%20de%20Código&theme=react&type=bar" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ellyehk&bg_color=0D1117&color=00f2fe&line=7928CA&point=00f2fe&area=true&hide_border=true&area_color=7928CA&custom_title=Coding%20Activity&theme=react&type=bar" width="100%" />
 </p>
 
 ---
 
-### 📫 Contacto
+### 📫 Contact
 <p align="left">
 <a href="https://www.linkedin.com/in/leslye-hernández-jiménez-5559403a6" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
