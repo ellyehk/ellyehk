@@ -11,9 +11,8 @@ Soy estudiante de **Ingeniería en Tecnologías de la Información y Comunicacio
 
 ### 🐍 GitHub Snake Game
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ellyehk/ellyehk/output/github-contribution-grid-snake.svg" alt="Snake Game">
+  <img src="https://raw.githubusercontent.com/ellyehk/ellyehk/output/github-contribution-grid-snake-dark.svg" alt="Snake Game">
 </p>
-
 ---
 
 ### 📊 Estadísticas de GitHub
